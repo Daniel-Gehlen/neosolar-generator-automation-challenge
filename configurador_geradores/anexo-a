@@ -1,0 +1,50 @@
+[
+  {
+    "Categoria": "Painel Solar",
+    "Id": 1001,
+    "Potencia em W": 500,
+    "Produto": "Painel Solar 500 W Marca A"
+  },
+  {
+    "Categoria": "Painel Solar",
+    "Id": 1002,
+    "Potencia em W": 500,
+    "Produto": "Painel Solar 500 W Marca B"
+  },
+  {
+    "Categoria": "Painel Solar",
+    "Id": 1003,
+    "Potencia em W": 500,
+    "Produto": "Painel Solar 500 W Marca C"
+  },
+  {
+    "Categoria": "Controlador de carga",
+    "Id": 2001,
+    "Potencia em W": 500,
+    "Produto": "Controlador de Carga 30A Marca E"
+  },
+  {
+    "Categoria": "Controlador de carga",
+    "Id": 2002,
+    "Potencia em W": 750,
+    "Produto": "Controlador de Carga 50A Marca E"
+  },
+  {
+    "Categoria": "Controlador de carga",
+    "Id": 2003,
+    "Potencia em W": 1000,
+    "Produto": "Controlador de Carga 40A Marca D"
+  },
+  {
+    "Categoria": "Inversor",
+    "Id": 3001,
+    "Potencia em W": 500,
+    "Produto": "Inversor 500W Marca D"
+  },
+  {
+    "Categoria": "Inversor",
+    "Id": 3002,
+    "Potencia em W": 1000,
+    "Produto": "Inversor 1000W Marca D"
+  }
+]

@@ -1,0 +1,19 @@
+ID Gerador,Potência do Gerador (em W),ID Produto,Nome do Produto,Quantidade Item
+32054,500,1001,Painel Solar 500 W Marca A,1
+32054,500,3001,Inversor 500W Marca D,1
+32054,500,2001,Controlador de Carga 30A Marca E,1
+18726,500,1002,Painel Solar 500 W Marca B,1
+18726,500,3001,Inversor 500W Marca D,1
+18726,500,2001,Controlador de Carga 30A Marca E,1
+45391,500,1003,Painel Solar 500 W Marca C,1
+45391,500,3001,Inversor 500W Marca D,1
+45391,500,2001,Controlador de Carga 30A Marca E,1
+61247,1000,1001,Painel Solar 500 W Marca A,2
+61247,1000,3002,Inversor 1000W Marca D,1
+61247,1000,2003,Controlador de Carga 40A Marca D,1
+73502,1000,1002,Painel Solar 500 W Marca B,2
+73502,1000,3002,Inversor 1000W Marca D,1
+73502,1000,2003,Controlador de Carga 40A Marca D,1
+24813,1000,1003,Painel Solar 500 W Marca C,2
+24813,1000,3002,Inversor 1000W Marca D,1
+24813,1000,2003,Controlador de Carga 40A Marca D,1
