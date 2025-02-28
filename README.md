@@ -1,0 +1,1 @@
+# neosolar-generator-automation-challenge
